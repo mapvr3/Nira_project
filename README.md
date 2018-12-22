@@ -29,7 +29,7 @@ This project is done using  Laravel. it is a Php framework;
 
 8- edit .env file and update DB_USERNAME , DB_PASSWORD fields
 
-9- run command : php artisan migrate --seed
+9- run command : php artisan migrate 
 
 10- run command : php artisan serve
 
